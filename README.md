@@ -1,6 +1,5 @@
 # 💫 About Me:
 I'm currently working on deep learning models<br>I've worked on audio dsp projects using machine learning<br>I've am a part of an open source organization<br>I've keep interest in Generative Ai <br>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fman-programmer-is-working-with-laptop-code-programmer-coding-image365898469.html&psig=AOvVaw0SfntC6I_I5wTKMjsXPKLH&ust=1691818068709000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjOncDv04ADFQAAAAAdAAAAABAE">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prey.rock) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prerak Joshi) 
@@ -21,4 +20,4 @@ I'm currently working on deep learning models<br>I've worked on audio dsp projec
 ---
 [![](https://visitcount.itsvg.in/api?id=PreyRock99&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
