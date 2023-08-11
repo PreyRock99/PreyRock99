@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on deep learning models<br>I've worked on audio dsp projects using machine learning<br>I've am a part of an open source organization https://avatars.githubusercontent.com/u/115614449?s=200&v=4"https://github.com/tcet-opensource"<br>I've keep interest in Generative Ai <br>
+I'm currently working on deep learning models<br>I've worked on audio dsp projects using machine learning<br>I've am a part of an open source organization https://github.com/tcet-opensource<br>I've keep interest in Generative Ai <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prey.rock) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prerak Joshi) 
