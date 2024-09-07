@@ -7,7 +7,7 @@
   
 - 🤝 I've am a part of **Open source organization [https://github.com/tcet-opensource]**
   
-- 💬 I've keep interest in **Generative AI**
+- 💬 I've keen interest in **Generative AI**
 
 
 <h3 align="left">Connect with me:</h3>
